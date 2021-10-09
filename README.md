@@ -1,2 +1,3 @@
 # CapturePictureByScanner
-take picture by scanner engine
+
+Get the last decoded image. When the image is available.
